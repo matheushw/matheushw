@@ -8,7 +8,6 @@ Software Engineer @ Cobli | React Developer | Full-Stack Developer | Flutter ent
 
 <br clear="left"/>
 <br/>
-<br/>
 
 # About me
 - Bachelor degree in computer science 💻
