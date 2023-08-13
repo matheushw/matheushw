@@ -15,8 +15,6 @@ Software Engineer @ Cobli | React Developer | Full-Stack Developer | Flutter ent
 - 3 years working mainly with Typescript + React | Dart + Flutter
 - I love cooking 🍛👨🏻‍🍳
 
-<br/>
-
 # Tech Stack 📚
 
 - Dart (Flutter)
