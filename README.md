@@ -10,8 +10,8 @@ Software Engineer @ Cobli | React Developer | Full-Stack Developer | Flutter ent
 <br/>
 
 # About me
-- Bachelor degree in computer science 💻
-- Deep interest in low level programming
+- Bachelor's degree in computer science 💻
+- Deep interest in low-level programming
 - 3 years working mainly with Typescript + React | Dart + Flutter
 - I love cooking 🍛👨🏻‍🍳
 
@@ -26,7 +26,7 @@ Software Engineer @ Cobli | React Developer | Full-Stack Developer | Flutter ent
 
 <br/>
 
-<a href="https://www.linkedin.com/in/matheus-barcellos-de-castro-cunha-2579a753/">
+<a href="https://www.linkedin.com/in/matheus-cunha-2579a753/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto: cunhamatheusc@gmail.com">
