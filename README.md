@@ -1,6 +1,6 @@
 # Hi there! I'm Matheus Cunha 👋
 
-Software Engineer @ Cobli | React Developer | Full-Stack Developer | Flutter enthusiast
+Software Engineer @ Cobli | Full-Stack Developer | React Developer | Flutter developer & enthusiast
 
 <img align="left" with="45%" src="https://github-readme-stats.vercel.app/api?username=matheushw&show_icons=true&theme=tokyonight" />
 
